@@ -1,7 +1,3 @@
-Here is the clean English version, same Struktur, gleiche Aussage, kein Zusatzballast.
-
----
-
 # **nuua – The CSS Framework**
 
 ---
